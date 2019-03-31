@@ -1,5 +1,7 @@
 # Evaluation of methods for working with categorical features
 This repository contains the relevant scripts used during my master thesis.
+## autoencoders
+Scripts creating and testing the autoencoders for encoding P10 and P100.
 ## df_to_latex
 A script used to transform the pandas describe tables to latex code.
 ## dq_approach
